@@ -16,7 +16,7 @@ import PostCard from '../components/PostCard';
 
 type Props = {
   route: any;
-  navigation: any;
+  navigation: any
 };
 
 const UserProfileScreen = ({navigation, route}: Props) => {
